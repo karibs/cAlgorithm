@@ -1,5 +1,5 @@
 	
-		/* 프로그램 2-1 선택정렬 : selectionsort.c */
+
 #include <stdio.h>
 void selection_sort();
 
